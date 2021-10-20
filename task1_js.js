@@ -39,8 +39,6 @@ console.log(firstNumber == 50 || secondNumber == 50 || firstNumber + secondNumbe
 
 // 7. Write a JS program check if a given positive number is a multiple of 3 or a multiple of 7
 
-
-
-
-
+let positiveNumber = 333;
+console.log(positiveNumber % 3 == 0 || positiveNumber % 7 == 0);
 
