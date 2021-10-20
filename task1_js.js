@@ -24,5 +24,9 @@ console.log(someNumber > 100);
 
 // 5.	Write a JS program to find if the first number is larger from the two given positive integers
 
+let firstInt = 3,
+    secondInt = 30;
+console.log(firstInt > secondInt);
+
 
 
