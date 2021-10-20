@@ -28,5 +28,19 @@ let firstInt = 3,
     secondInt = 30;
 console.log(firstInt > secondInt);
 
+/*
+6. Write a JS program to check two given numbers 
+and print true if one of the number is 50 or if their sum is 50
+*/
+
+let firstNumber = 20,
+    secondNumber = 30;
+console.log(firstNumber == 50 || secondNumber == 50 || firstNumber + secondNumber == 50);
+
+// 7. Write a JS program check if a given positive number is a multiple of 3 or a multiple of 7
+
+
+
+
 
 
